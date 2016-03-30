@@ -14,23 +14,19 @@ Exercises are generic and not specific to any programming language. In case of e
 
 Actual Theory
 ---------------------
-Actual, general programming theory is something I would like to write in the long run, but that is not in the current scope of this repository.
-
-I will, however, take the time to write something if I'm asked to. This repository's goal is to help students learn programming, so I will be glad to.
+Actual, general programming theory is something I would like to write in the long run, but that is not in the current scope of this repository. I will, however, take the time to write something if I'm asked to. This repository's goal is to help students learn programming, so I will be glad to.
 
 
 Basic vs. Advanced
 ---------------------
 Basic implies variables, arrays, strings, files, conditional and loop statements, input/output, and a few other things.
 
-Advanced would be diving into linked lists, queues, stacks, algorithms, etc. Same as in Actual Theory, I'm still not going into this. 
+Advanced would be diving into linked lists, queues, stacks, algorithms, etc. Same as in Actual Theory, I'm still not going into this but I can write something down if I'm asked to. 
 
 
 Contacting me
 ---------------------
-You can mail me to darkatomish@gmail.com with any doubts, suggestions or petitions you may have. I will try to answer as soon as possible.
-
-Also, if you have any corrections, I will add them to the documents with your name. Always thankful.
+You can mail me to darkatomish@gmail.com with any doubts, suggestions or petitions you may have. I will try to answer as soon as possible. Also, if you have any corrections, they are welcome and I will add them to the documents with your name. Always thankful.
 
 
 Copyright
